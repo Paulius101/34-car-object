@@ -22,11 +22,11 @@ const opelData = {
             working: true
         }
     ],
-    tankSize: {
+    tank: {
         maxSize: 55,
         currentSize: 43
     },
-    fuelComsumption: 9,
+    fuelConsumption: 9,
     fuelCostPerLitre: 1.2
 }
 
